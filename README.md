@@ -1,4 +1,4 @@
--Full Guide-
+-Full Guide Chrome/Chromium-
 
 
 1. Download Google Chrome / Chromium
@@ -26,3 +26,7 @@
 12. Once the Site finished loading you can exit the DevTools and make it fullscreen to get the ultimate experience
 
 13. To exit this mode simply untoggle "Device Toolbar" and visit normal youtube
+
+NOTE: Refreshing the site will reset your configurations
+
+
