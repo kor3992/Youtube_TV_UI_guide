@@ -29,4 +29,23 @@
 
 NOTE: Refreshing the site will reset your configurations
 
+-Full Guide Firefox/Tor-
 
+
+1. Download Firefox / Tor Browser
+
+2. Go to The youtube website
+
+3. Open the Devtools With F12
+
+4. Go to the small "Responsive Design Mode" icon in the right upper corner
+
+5. Put "Roku/DVP-15.2" in the UA field
+
+6. Visit "https://youtube.com/tv#" while youre still in the DevTools
+
+7. Once the Site finished loading you can exit the DevTools and make it fullscreen to get the ultimate experience
+
+8. To exit this mode simply untoggle "Device Toolbar" and visit normal youtube
+
+NOTE: Refreshing the site will reset your configuration 
