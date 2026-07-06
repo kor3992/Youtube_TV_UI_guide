@@ -29,6 +29,10 @@
 
 NOTE: Refreshing the site will reset your configurations
 
+
+
+
+
 -Full Guide Firefox/Tor-
 
 
